@@ -1,0 +1,22 @@
+{
+  "name": "gutenberg-sidebar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^3.2.1"
+  },
+  "dependencies": {
+    "@wordpress/components": "^7.4.0",
+    "@wordpress/data": "^4.5.0",
+    "@wordpress/edit-post": "^3.3.6",
+    "@wordpress/i18n": "^3.4.0",
+    "@wordpress/plugins": "^2.3.0"
+  }
+}
